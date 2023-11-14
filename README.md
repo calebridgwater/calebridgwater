@@ -1,6 +1,9 @@
 ### Hi! I am a passionate global public health researcher 👋 and this is where you can find some of the cool projects ive created in my free time.
-🌍 Passionate Global Health Researcher | Advocate for Health Justice
-As a fervent advocate for global health and equity, I am deeply committed to fostering health justice for all through transnational solidarity, One Health approaches, and progressive health policy. My journey in global health is driven by a belief in equitable access to diagnostics and healthcare, grounded in a strong scientific and ethical foundation.
+
+🌍  Global Health Researcher | Health Justice Advocate
+
+As an advocate for global health justice, I am committed to fostering health justice for all through transnational solidarity, One Health approaches, and progressive health policy. My journey in global health is driven by a belief in equitable access to diagnostics and healthcare, grounded in a strong scientific and ethical foundation. Here is where you can see passion projects that showcase these interests as I upskill my coding. 
+
 - 🔭 I’m currently working on developing my data science portfolio with various passion projects to learn new languages or showcase my abilities.
   
 - 🌱 I’m currently learning full-stack web development and data science methods in pyhton!
