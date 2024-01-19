@@ -2,15 +2,13 @@
 
 🌍  Global Health Researcher | Health Justice Advocate
 
-As an advocate for global health justice, I am committed to fostering health justice for all through transnational solidarity, One Health approaches, and progressive health policy. My journey in global health is driven by a belief in equitable access to diagnostics and healthcare, grounded in a strong scientific and ethical foundation. Here is where you can see passion projects that showcase these interests as I upskill my coding. 
+As an advocate for global health justice, I believe in health justice for all and acheiving this through transnational solidarity, One Health approaches, and radical health policy. Here is where you can see passion projects that showcase these interests as I upskill my coding. 
 
-- 🔭 I’m currently working on developing my data science portfolio with various passion projects to learn new languages or showcase my abilities.
+- 🔭 I’m currently working on developing my data science portfolio with various passion projects to learn new languages or showcase my abilities, as well as building a global health resources website to showcase the data bases, resources, dashboards, and more that I have used throughout my career.
   
-- 🌱 I’m currently learning full-stack web development and data science methods in pyhton!
-  
-- 👯 As I grow and learn, I would love to collaborate on passion projects, especially public health related ones.
+- 🌱 I’m currently learning full-stack web development with HTML, CSS, and JavaScript and data science methods in pyhton!
 
-- 🌟 Core Interests: Global Health Policy, Social Epidemiology, Primary Care Systems, molecular and computational biology.
+- 🌟 Core Interests: Global Health Policy, Social Epidemiology, Primary Care Systems, molecular and computational immunology.
 
 
 
