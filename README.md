@@ -1,4 +1,5 @@
 
+<p align="center">
 # Hi I am **Caleb**, find my interests and projects here!
 
 
@@ -10,15 +11,21 @@
 
 - 🔭 I’m currently working on developing my data science portfolio with various passion projects to learn new languages or showcase my abilities, as well as building a global health resources website to showcase the data bases, tools, dashboards, and more that I have used throughout my career.
 
-<p align="center">
+
   🔗 Follow Me on [GitHub](https://github.com/calebridgwater) | Find me on [LinkedIn](https://www.linkedin.com/in/calebbridgwater/).
-</p>
+
+
 
 ## Stats
 
 [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebridgwater&show_icons=true&theme=transparent)](https://github.com/calebridgwater/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebridgwater&layout=compact)](https://github.com/calebridgwater/github-readme-stats)
+
+
+</p>
+
+
 
 <p align="center"> 
   Visitor count<br>
