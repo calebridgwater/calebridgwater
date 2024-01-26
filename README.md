@@ -1,6 +1,6 @@
 
 <p align="center">
-# Hi I am **Caleb**, find my interests and projects here!
+# Hi I am Caleb, find my interests and projects here!
 
 
 ## Global Health Researcher | Health Justice Advocate 
